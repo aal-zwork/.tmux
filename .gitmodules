@@ -1,0 +1,3 @@
+[submodule "plugins/gapakoz/.tmux"]
+	path = plugins/gapakoz/.tmux
+	url = https://github.com/gpakosz/.tmux
